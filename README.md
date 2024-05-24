@@ -9,7 +9,7 @@ Please choose your preferred language to access the content.
 
 ---
 
-# Mi Portafolio de GitHub
+# Mi Portfolio de GitHub
 
 ¡Bienvenido a mi portafolio de GitHub! Puedes explorar mis proyectos y conocer más sobre mí en el idioma que prefieras:
 
